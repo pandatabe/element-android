@@ -5,7 +5,7 @@ Features ✨:
  -
 
 Improvements 🙌:
- -
+ - Improve login/register flow (#2585, #3172)
 
 Bugfix 🐛:
  - Message states cosmetic changes (#3007)
